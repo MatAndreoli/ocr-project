@@ -1,0 +1,14 @@
+# Ambiente virtual e caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.cache/
+models/
+
+# Resultados intermediários de depuração
+debug/
+
+# Sistema
+.DS_Store
